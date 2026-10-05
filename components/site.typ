@@ -282,6 +282,11 @@
     homepage: "https://sweetadelines.org.uk/",
     logo: "/assets/images/endorsers/sai-region-31.png",
   ),
+  "SWABS": (
+    name: "Swiss Association of Barbershop Singers",
+    homepage: "https://barbershopharmony.ch/",
+    logo: "/assets/images/endorsers/swabs.png",
+  ),
 )
 
 /// Render linked logo cards for endorsing organizations.

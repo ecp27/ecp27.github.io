@@ -388,5 +388,6 @@ from all across Europe.
   "IABS",
   "LABBS",
   "SAI Region 31",
-  // "SNOBS"
+  // "SNOBS",
+  "SWABS",
 )
