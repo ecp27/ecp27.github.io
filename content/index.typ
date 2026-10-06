@@ -147,9 +147,20 @@ The application will include coaching videos and written questions about
 coaching experience, approach and motivation. Shortlisted applicants will
 be interviewed online.
 
-Applications are assessed by an international selection team. The main
-criteria are current coaching ability, barbershop knowledge, and willingness
+Applications are assessed by an international selection team (see below). The main
+criteria are current coaching ability and experience, barbershop knowledge, and willingness
 to learn.
+
+*Coaching video.*
+The coaching video should be a video that is at least 20-30 minutes in length, ideally uncut,
+and shows you while coaching a quartet or chorus. A barbershop group would be ideal,
+but we'll take another musical group if this is not possible. The video should show
+both you and the group and have clear audio so that we can hear the effect of your
+coaching. In-person coaching is preferrable, but you can also record a video coaching session.
+
+We would prefer to receive a video in English, but you can also coach a group in a different language. In this case, please make sure that the video has subtitles in English that are comprehensible for a selection team that does not speak your language. Youtube has functions for transcribing and translating videos. It is your responsibility to ensure that the video can be understood by the selection team.
+
+If you direct a chorus, please submit a video that shows you as a coach with a different ensemble than your own chorus. The roles of chorus director and coach are quite different, and the selection team wants to see you in a coaching role and with singers with whom you are less familiar.
 
 
 
