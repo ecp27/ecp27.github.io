@@ -26,7 +26,7 @@ Campus C7.2 #linebreak()
 66123 Saarbrücken #linebreak()
 Germany
 
-Email: #link("mailto:ecp26@googlegroups.com")[ecp26\@googlegroups.com]
+Email: #link("mailto:ecp27@googlegroups.com")[ecp27\@googlegroups.com]
 
 
 
@@ -137,7 +137,7 @@ participate in the relevant ECP communications. We remove members when their
 role or participation ends and the group is no longer needed for follow-up
 communication. The Google Groups are configured to maintain a conversation history,
 accessible only to the respective group's members.
-We will delete the group and its message history after ECP 2026 completes.
+We will delete the group and its message history after ECP 2027 completes.
 Copies of
 messages already delivered to members remain in their individual mailboxes and
 cannot be deleted by the ECP organizers. Google determines the retention of
