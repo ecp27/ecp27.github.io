@@ -151,6 +151,10 @@ Applications are assessed by an international selection team (see below). The ma
 criteria are current coaching ability and experience, barbershop knowledge, and willingness
 to learn.
 
+Coaching videos and application material will be handled as described in our
+#link("/legal/#privacy")[privacy notice].
+
+
 *Coaching video.*
 The coaching video should be a video that is at least 20-30 minutes in length, ideally uncut,
 and shows you while coaching a quartet or chorus. A barbershop group would be ideal,
@@ -175,15 +179,14 @@ a video of the Candidate's coaching together and discuss the feedback from the
 groups and the Candidate's own experiences. This This results in an
 individual development plan for the second year.
 
-Final interviews take place in summer to autumn 2029. Each Candidate will have
+Final interviews will take place in 2029. Each Candidate will have
 video calls with two selection team members to assess their coaching skills and
 their understanding of the coach's role. These interviews will involve more
 review of coaching videos and feedback.
 
 The successful Candidates will become Certified Coaches in the second half of 2029.
+The ECP will organize graduation ceremonies.
 
-Coaching videos and application material will be handled as described in our
-#link("/legal/#privacy")[privacy notice].
 
 
 = Selection Team
@@ -269,8 +272,8 @@ Coaching videos and application material will be handled as described in our
   (date: [August 2027], event: [First ECP week at European Harmony Academy]),
   (date: [February 2028], event: [Mid-term check-ins and individual development plans]),
   (date: [August 2028], event: [Second ECP week at European Harmony Academy]),
-  (date: [October–December 2028], event: [Final interviews and certification decisions]),
-  (date: [2029], event: [Graduation ceremonies at national events]),
+  // (date: [October–December 2028], event: [Final interviews and certification decisions]),
+  (date: [2029], event: [Final interviews and graduation]),
 )
 
 
