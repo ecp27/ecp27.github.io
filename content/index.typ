@@ -359,11 +359,7 @@ The easiest way to contact the organizers is by email to #link("mailto:ecp27@goo
     name: [Naud Berkhuizen],
     picture: "/assets/images/people/naud-berkhuizen.webp",
     profile: [
-      BHS Performance Judge since 2026. Member of the Holland Harmony Education Team.
-      Quartet silver medalist at Holland Harmony with Game On!.
-      He has coached
-      ensembles in Ireland and the Netherlands and served on the faculty of
-      Harmony College Northeast in Boston as well as the European Harmony Academy.
+      BHS Performance Judge since 2026. Performance coach of Mixed Nuts, a top-20 International mixed chorus, and singer with Game On!, World Mixed 2026 finalist. Faculty at Harmony College Northeast, the European Quartet School, and the European Harmony Academy. Brings a professional background in change management and systemic coaching to his musical work, focusing on the gap between intent and impact.
     ],
   ),
   (
