@@ -50,7 +50,6 @@
 )
 
 #upcoming-dates(
-  (date: [End of September 2026], event: [Selection team announced]),
   (date: [1–15 November 2026], event: [Applications open]),
   (date: [15 December 2026], event: [Candidates selected]),
 )
