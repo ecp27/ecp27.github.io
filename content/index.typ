@@ -50,12 +50,15 @@
 )
 
 #upcoming-dates(
-  (date: [1–15 November 2026], event: [Applications open]),
+  (date: [15 November 2026], event: [Application deadline]),
   (date: [15 December 2026], event: [Candidates selected]),
 )
 
-#callout(title: [Applications open soon!])[
-  Apply from 1–15 November 2026. #link("#applications")[See application details →]
+#callout(
+  title: [Applications are open!],
+  action: link("https://forms.gle/98FvuRnXwUDUdXGs6")[Apply now →],
+)[
+  Apply by 15 November 2026.
 ]
 
 
@@ -139,8 +142,8 @@ seek financial support from their national barbershop societies.
 
 == How to apply
 
-The deadline for applications is 15 November 2026. We will link to a Google
-Form from this website.
+The deadline for applications is 15 November 2026.
+#link("https://forms.gle/98FvuRnXwUDUdXGs6")[Apply using the application form].
 
 The application will include coaching videos and written questions about
 coaching experience, approach and motivation. Shortlisted applicants will

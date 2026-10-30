@@ -19,10 +19,13 @@
 }
 
 /// Render a gold announcement box with a title and supporting content.
-#let callout(title: none, body) = {
+#let callout(title: none, action: none, body) = {
   _element("aside", attrs: (class: "callout"))[
     #if title != none { _element("strong", title) }
-    #_element("span", body)
+    #_element("span", attrs: (class: "callout-copy"), body)
+    #if action != none {
+      _element("span", attrs: (class: "callout-action"), action)
+    }
   ]
 }
 

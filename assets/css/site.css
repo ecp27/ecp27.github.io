@@ -243,7 +243,21 @@ main { background: var(--surface); }
 }
 
 .callout span { color: var(--ink); }
-.callout a { color: var(--ink); }
+.callout-action {
+  margin-left: auto;
+  white-space: nowrap;
+}
+.callout-action a {
+  display: inline-block;
+  padding: .4rem .8rem;
+  background: var(--accent);
+  color: white;
+  font-weight: 700;
+  line-height: 1.35;
+  text-decoration: none;
+}
+.callout-action a:hover { background: var(--ink); }
+.callout-action a:focus-visible { outline-color: white; }
 
 .page-content > h2,
 .page-content > h3,
@@ -699,6 +713,14 @@ main { background: var(--surface); }
   }
   .page-content h1 { font-size: clamp(2.7rem, 13vw, 3.6rem); }
   .upcoming h2 { margin-top: 0; }
+  .callout-action {
+    flex-basis: 100%;
+    margin-top: .4rem;
+  }
+  .callout-action a {
+    display: block;
+    text-align: center;
+  }
   .person { grid-template-columns: 80px minmax(0, 1fr); }
   .page-content .person-picture {
     width: 80px;
