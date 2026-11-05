@@ -243,13 +243,13 @@ The ECP will organize graduation ceremonies.
     ],
   ),
 
-  (
-    name: [Jordan Travis],
-    picture: "/assets/images/people/jordan-travis.webp",
-    profile: [
-      BHS Singing Judge, 2014–2020. International vocal coach and music educator; Artistic Director of Voices Unlimited, A Cappella Showcase, and the Golden Horseshoe Choruses.
-    ],
-  ),
+  // (
+  //   name: [Jordan Travis],
+  //   picture: "/assets/images/people/jordan-travis.webp",
+  //   profile: [
+  //     BHS Singing Judge, 2014–2020. International vocal coach and music educator; Artistic Director of Voices Unlimited, A Cappella Showcase, and the Golden Horseshoe Choruses.
+  //   ],
+  // ),
 
   (
     name: [Paul Wigley],
