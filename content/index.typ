@@ -50,15 +50,15 @@
 )
 
 #upcoming-dates(
-  (date: [15 November 2026], event: [Application deadline]),
+  (date: [22 November 2026], event: [Application deadline]),
   (date: [15 December 2026], event: [Candidates selected]),
 )
 
 #callout(
-  title: [Applications are open!],
+  title: [Application deadline extended!],
   action: link("https://forms.gle/98FvuRnXwUDUdXGs6")[Apply now →],
 )[
-  Apply by 15 November 2026.
+  The new deadline is 22 November 2026.
 ]
 
 
@@ -142,7 +142,7 @@ seek financial support from their national barbershop societies.
 
 == How to apply
 
-The deadline for applications is 15 November 2026.
+The deadline for applications is 22 November 2026.
 #link("https://forms.gle/98FvuRnXwUDUdXGs6")[Apply using the application form].
 
 The application will include coaching videos and written questions about
@@ -268,7 +268,7 @@ The ECP will organize graduation ceremonies.
 
 #timeline(
   (date: [September 2026], event: [Website and initial call for participation]),
-  (date: [1–15 November 2026], event: [Application period]),
+  (date: [1–22 November 2026], event: [Application period]),
   (date: [15 December 2026], event: [Candidates selected]),
   (date: [January 2027], event: [Virtual start, mentors assigned and coaching begins]),
   (date: [August 2027], event: [First ECP week at European Harmony Academy]),
