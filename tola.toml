@@ -31,8 +31,8 @@ minify = true
 deps = ["templates", "components"]
 
 [build.assets]
-# Copy the asset tree to `public/assets/`.
-nested = ["assets"]
+# Include the password-protected viewer in both preview and production builds.
+nested = ["assets", "applications"]
 flatten = []
 
 [build.hooks.css]

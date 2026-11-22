@@ -4,3 +4,5 @@
 /tola.tar.gz
 /checksums.txt
 .DS_Store
+/ecp-applications/
+/.review-password

@@ -66,3 +66,22 @@ The GitHub Actions workflow downloads the pinned Tola 0.7.1 binary, verifies its
 checksum, validates the source, builds the site, and deploys `public/` to GitHub
 Pages after a push to `main`. In the repository settings, configure **Pages** to
 use **GitHub Actions** as its source.
+
+### Application review directory
+
+Run `./scripts/build-review.sh` locally with Tola, Python 3 and npm installed.
+It rebuilds `ecp-applications/`, checks every generated file against the
+reviewed public asset list, and uses the shared passphrase. To reuse your
+passphrase, save it as one line of plain text in `.review-password` at the
+repository root. Spaces and shell punctuation are literal. This file is ignored
+by Git and stays outside the site build. Without the file, StatiCrypt uses its
+usual environment variable or interactive prompt. Commit the
+resulting `applications/` to publish the viewer under `/applications/`.
+The root Tola preview serves the same path locally.
+The optional “Remember me for two months” checkbox lasts 60 days. Keep the
+local `ecp-applications/.staticrypt.json` to preserve remembered access across
+rebuilds with the same passphrase.
+
+The generated index contains the application records. Only the encrypted
+version is copied to the review site. If the asset check fails, inspect the
+new output for applicant data before updating `scripts/review/public-assets.sha256`.
