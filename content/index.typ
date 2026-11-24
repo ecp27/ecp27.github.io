@@ -50,16 +50,16 @@
 )
 
 #upcoming-dates(
-  (date: [22 November 2026], event: [Application deadline]),
+  // (date: [22 November 2026], event: [Application deadline]),
   (date: [15 December 2026], event: [Candidates selected]),
 )
 
-#callout(
-  title: [Application deadline extended!],
-  action: link("https://forms.gle/98FvuRnXwUDUdXGs6")[Apply now →],
-)[
-  The new deadline is 22 November 2026.
-]
+// #callout(
+//   title: [Application deadline extended!],
+//   action: link("https://forms.gle/98FvuRnXwUDUdXGs6")[Apply now →],
+// )[
+//   The new deadline is 22 November 2026.
+// ]
 
 
 
